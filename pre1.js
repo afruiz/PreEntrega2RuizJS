@@ -58,3 +58,5 @@ while ( salida != "FIN"){
         console.log("El precio de su vuelo es: ", precio_vuelo( salida , llegada ));
     }
 }
+
+
